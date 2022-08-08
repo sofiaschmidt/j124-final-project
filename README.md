@@ -65,36 +65,36 @@ The first step I took was to clean my data sets. The data sets that I was using 
 2) Do the parks’ conditions affect the squirrels’ level of interaction with humans? 
 	* In the ‘squirrel data,’ I added a column for “park conditions.”
 	* I used vlookup to get the value for the new column from the ‘park data.’
-	* Then , I used a pivot table to determine the the squirrels behavior towards humans by the “park’s conditions”
+	* Then , I used a pivot table to determine the squirrels behavior towards humans by the “park’s conditions”
 	* I filtered the interactions with humans to remove blanks.
 
 <img height="280" alt="img002" src="https://github.com/sofiaschmidt/j124-final-project/blob/42f5001ea0509cdefc43a08e5d7331b447b67619/screenshots%20for%20data/img002.png">
 
-> In busy parks a few more squirrels are indifferent and few less run from humans
+> In busy parks a few more squirrels are indifferent to humans and few less squirrels run from humans.
 
 3) Which park type attracts the most amount of squirrels? Which park type attracts the least amount of squirrels?
-	* In park data create a new column called type
-	* Use vlookup to determine the type from the park-info data category SUBTYPE
-	* Create a pivot table that sums the number of squirrels by park type.
+	* In park data I created a new column called "type".
+	* I used vlookup to determine the type from the park-info data category SUBTYPE.
+	* Then I created a pivot table that sums the number of squirrels by park type.
 
 <img height="280" alt="img003" src="https://github.com/sofiaschmidt/j124-final-project/blob/42f5001ea0509cdefc43a08e5d7331b447b67619/screenshots%20for%20data/img003.png">
 
-> Large Parks have the most squirrels while sitting areas have the least
+> Large Parks have the most squirrels while sitting areas have the least.
 
 4) Do certain color squirrels prefer certain precincts?
-	* In squirrel data create a new column that concatenates the fur color with highlight color
-	* Add another column labeled precinct and use vlookup to get the data
-	* Create a pivot table that sums the number of squirrels that have a particular color by precinct
+	* In squirrel-data I created a new column that concatenates the fur color with highlight color.
+	* Then I added another column labeled precinct and used vlookup to get the data from the park-data sheet.
+	* I created a pivot table that counts the number of squirrels that have a particular color by precinct and area.
 
 <img height="300" alt="img004" src="https://github.com/sofiaschmidt/j124-final-project/blob/42f5001ea0509cdefc43a08e5d7331b447b67619/screenshots%20for%20data/img004.png">
 
-> Most of the cinnamon squirrels are in brooklyn and most of the black squirrels are in central manhattan
+> Most of the cinnamon squirrels are in brooklyn and most of the black squirrels are in central manhattan.
 
 5) Varying times were spent in each park observing the squirrels; for the purpose of normalizing the data, how many squirrels were seen per minute in each area of the city?
-	* Create a new column in park data that shows the squirrels seen per minute observed
-	* Create a pivot table that averages these values by area
+	* I created a new column in park data that shows the squirrels seen per minute observed.
+	* THen I created a pivot table that averages these values by area.
 
 <img height="235" alt="img005" src="https://github.com/sofiaschmidt/j124-final-project/blob/42f5001ea0509cdefc43a08e5d7331b447b67619/screenshots%20for%20data/img005.png">
 
-> Central manhattan had the most squirrel sightings per minute while lower manhattan has the least squirrels sightings per minute
+> Central manhattan had the most squirrel sightings per minute while lower manhattan has the least squirrels sightings per minute.
 
