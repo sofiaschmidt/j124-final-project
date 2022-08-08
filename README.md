@@ -12,7 +12,7 @@ The data shows that the squirrels are not running away from people the busier th
 
 ## Sourcing
 
-In this project, I analyzed [“Park Data”](link_here) and [“Squirrel Data”](link_here) from the Squirrel Census sourced from NYC Open Data, along with [“Parks Properties”](link_here) data from NYC Open Data. I joined all these data sets into one workbook to analyze their elements. 
+In this project, I analyzed [“Park Data”](https://www.dropbox.com/s/268uogek0mcypn9/park-data.csv?dl=0) and [“Squirrel Data”](https://www.dropbox.com/s/b97hxtsthbidl34/squirrel-data.csv?dl=0) from the Squirrel Census sourced from NYC Open Data, along with [“Parks Properties”](https://data.cityofnewyork.us/Recreation/Parks-Properties/enfh-gkve/data) data from NYC Open Data. I joined all these data sets into one workbook to analyze their elements. 
 
 ### Potential Interview Contacts
 1) Denise Lu, graphics editor at The New York Times
