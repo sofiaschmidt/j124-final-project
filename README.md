@@ -12,7 +12,7 @@ The data shows that the squirrels are not running away from people the busier th
 
 ## Sourcing
 
-In this project, I analyzed [“Park Data”](https://www.dropbox.com/s/268uogek0mcypn9/park-data.csv?dl=0) and [“Squirrel Data”](https://www.dropbox.com/s/b97hxtsthbidl34/squirrel-data.csv?dl=0) from the Squirrel Census sourced from NYC Open Data, along with [“Parks Properties”](https://data.cityofnewyork.us/Recreation/Parks-Properties/enfh-gkve/data) data from NYC Open Data. I joined all these data sets into one workbook to analyze their elements. 
+In this project, I analyzed [“Park Data”](https://www.dropbox.com/s/268uogek0mcypn9/park-data.csv?dl=0) and [“Squirrel Data”](https://www.dropbox.com/s/b97hxtsthbidl34/squirrel-data.csv?dl=0) from the Squirrel Census sourced from NYC Open Data, along with [“Parks Properties”](https://data.cityofnewyork.us/Recreation/Parks-Properties/enfh-gkve/data) data from NYC Open Data. I joined all these data sets into one [workbook](https://github.com/sofiaschmidt/j124-final-project/blob/a080d365ffcbae0c2d21d61e5817380b05e1869f/squirrel-data.xlsx) to analyze their elements. 
 
 ### Potential Interview Contacts
 1) Denise Lu, graphics editor at The New York Times
@@ -38,7 +38,7 @@ In this project, I analyzed [“Park Data”](https://www.dropbox.com/s/268uogek
 ![choropleth](https://github.com/sofiaschmidt/j124-final-project/blob/2a032bf3d3ab97b2d050aa3486b5c3a1ffb29730/screenshots%20for%20data/graph001.png)
 
 ## Data Analysis Process
-The first step I took was to clean my data sets. The data sets that I was using did not need much cleaning at all. I then combined the three data sets into one workbook in order to cross reference data.
+The first step I took was to clean my data sets. The data sets that I was using did not need much cleaning at all. I then combined the three data sets into one [workbook](https://github.com/sofiaschmidt/j124-final-project/blob/a080d365ffcbae0c2d21d61e5817380b05e1869f/squirrel-data.xlsx) in order to cross reference data.
 
 ### Scope of Analysis 
 
